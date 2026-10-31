@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Build artifacts
+build/
+dist/
+*.so
+*.o
+*.a
+
+# Datasets and generated files
+datasets/
+connectome_data/
+checkpoints/
+*.feather
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pt
+*.pth
+
+# Logs and system files
+*.log
+.DS_Store
+telemetry/live_calibration.json

@@ -1,0 +1,11 @@
+condition,frame,sugar,retina_mean,retina_active,mn9_spikes,mn9_raw_hz,dnpe017_spikes,dnpe017_raw_hz,dnp20_spikes,bio_attack,bci_attack,bci_forward,wall_seconds
+black,black,False,0.0,0,0,0.0,13,26.0,18,False,True,10.32992535120951,0.6037807319999047
+white,white,False,1.0,3335,0,0.0,28,56.0,38,False,True,20.0,0.629435489999878
+left_half,left_half,False,0.3442278802394867,1148,0,0.0,21,42.0,27,False,True,16.686802490415364,0.6187131809999755
+center_band,center_band,False,0.36449992656707764,1217,0,0.0,13,26.0,18,False,True,10.32992535120951,0.6635994220000612
+right_half,right_half,False,0.6557720899581909,2187,0,0.0,18,36.0,27,False,True,14.30297356321317,0.6048613430000387
+target_center,target_center,False,0.13661161065101624,468,0,0.0,14,28.0,19,False,True,11.124534993610244,0.6176971739998862
+movement_outer,movement_outer,False,0.29099562764167786,1948,0,0.0,28,56.0,37,False,True,20.0,0.6296481489998769
+black_plus_sugar,black,True,0.0,0,77,154.0,1,2.0,6,True,True,0.7946096424007316,2.176781222999807
+target_plus_sugar,target_center,True,0.13661161065101624,468,78,156.0,1,2.0,5,True,True,0.7946096424007316,2.180227696999964
+movement_plus_sugar,movement_outer,True,0.29099562764167786,1948,81,162.0,2,4.0,6,True,True,1.5892192848014632,2.246025359999976
