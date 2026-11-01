@@ -1,6 +1,6 @@
 # Fruit Fly Playing League of Legends
 
-**FlyQ — Connectome-Based Bio-Inspired Sensorimotor Control**
+**FlyQ  Connectome-Based Bio-Inspired Sensorimotor Control**
 
 *An independent experimental project, not affiliated with or endorsed by Riot Games.*
 
